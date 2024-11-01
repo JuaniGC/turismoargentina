@@ -1,0 +1,87 @@
+#head {
+    background-color: #36563e;
+    width: 100vw;
+    height: 300px;
+    padding: 0;
+    margin: 0;
+}
+.titulo {
+    padding-top: 32px;
+    font-size: 100px;
+    font-family: papyrus;
+    padding-left: 100px;
+}
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 20%;
+}
+.carousel slide {
+    width: 50%;
+    height: 50%;
+}
+.carousel-control-prev {
+    display: block;
+    margin-left: 350px;
+}
+.carousel-control-next{
+    display: block;
+    margin-right: 350px;
+}
+.accordion {
+    display: block;
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+body{
+    background-color: #e9ede4
+}
+.img-fluid{
+    float: right;
+    margin-right: 350px;
+}
+.card{
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.subtitulo{
+    padding-top: 0;
+    font-size: 30px;
+    font-family: Garamond;
+    padding-left: 300px;
+}
+#table1{
+    width: 100vw;
+    box-sizing: border-box;
+}
+.ciudades{
+    font-family: garamond;
+}
+.card2{
+    position: relative;
+    margin-left: 70px;
+    margin-right: 70px;
+    padding: 0;
+    margin-top: 5px;
+}
+.logo{
+    z-index: 1;
+    width: 300px;
+    height: 280px;
+    padding-top: 10px;
+    align-items: center;
+    box-sizing: border-box;
+}
+#table2{
+    max-height: 300px;
+    width: 80vw;
+}
+.title {
+    padding-top: 20px;
+}
+.fila2{
+    padding: 0;
+}
